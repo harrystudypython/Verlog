@@ -4,3 +4,6 @@
 # Finite State Machine
 ## 由状态寄存器和组合逻辑电路 任意时刻的输出取决于该时刻的输入，与电路原来的状态无关 构成
 Static Timing Analysis--》STA
+# uvm
+## Universal Verification Methodology
+## Register Transfer Level
